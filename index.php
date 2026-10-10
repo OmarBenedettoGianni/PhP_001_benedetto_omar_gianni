@@ -1,8 +1,5 @@
 <?php
 
-// Crea un metodo che permetta di stampare a terminale la seguente frase: “L’ufficio Aulab con sede in Italia ha ben 50 dipendenti“; 
-// se la sede non ha dipendendi, allora stampa: “L’ufficio Aulab con sede in Italia non ha dipendenti“;
-
 class Company{
     public $name;
     public $location;
